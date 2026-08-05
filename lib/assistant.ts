@@ -50,6 +50,11 @@ export const UI = {
   },
   animalType: { mr: 'जनावराचा प्रकार', hi: 'पशु का प्रकार', en: 'Animal Type' },
   symptoms: { mr: 'लक्षणे', hi: 'लक्षण', en: 'Symptoms' },
+  symptomsPlaceholder: {
+    mr: 'उदा. ताप, खात नाही, तोंडात फोड',
+    hi: 'जैसे बुखार, खाना न खाना, मुंह में छाले',
+    en: 'e.g. fever, not eating, mouth blisters',
+  },
   checkHealth: { mr: 'तपासा', hi: 'जाँचें', en: 'Check Health' },
   possibleCauses: { mr: 'संभाव्य कारणे', hi: 'संभावित कारण', en: 'Possible Causes' },
   precautions: { mr: 'त्वरित काळजी', hi: 'तत्काल सावधानियाँ', en: 'Immediate Precautions' },
